@@ -19,7 +19,7 @@
     </p>
 
 
-## 👩 About me:
+## 👦 About me:
 <p>
   I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Machine Learning. I have experience in Algorithms, Data Structures, Web Development, etc. I love to experiment with new technologies. Subtract work from the day, I am always down for a chat over a cup of coffee or binge-watching any series on YouTube.<br>
 Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
